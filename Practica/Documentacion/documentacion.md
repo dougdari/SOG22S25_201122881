@@ -1,4 +1,4 @@
-# Informe de Planificación y Proceso de Análisis de Datos
+# Practica Grupo 13 - Documentacion
 
 ## a) Planificación
 
