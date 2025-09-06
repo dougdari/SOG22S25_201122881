@@ -53,4 +53,4 @@ df = df.dropna()
 # ==========================
 df.to_csv("ventas_tienda_online_limpio.csv", index=False)
 
-print("✅ Archivo limpio generado: ventas_tienda_online_limpio.csv")
+print("Archivo limpio generado: ventas_tienda_online_limpio.csv")

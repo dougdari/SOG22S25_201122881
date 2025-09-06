@@ -20,4 +20,4 @@ engine = create_engine(
 # Si quieres agregar los datos sin borrar, usa if_exists="append"
 df.to_sql("ventas_tienda_online", con=engine, if_exists="append", index=False)
 
-print("✅ Datos cargados exitosamente en Railway (tabla ventas_tienda_online).")
+print(" Datos cargados exitosamente en Railway (tabla ventas_tienda_online).")
